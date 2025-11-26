@@ -27,7 +27,7 @@ This app is up and running on Streamlit cloud server!!! You can check the demo o
 
 
 ## Demo Pics
-
+ 
 ### Home page
 
 <img src="https://github.com/CodingMantras/yolov8-streamlit-detection-tracking/blob/master/assets/pic1.png" >
